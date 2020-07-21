@@ -6,6 +6,6 @@ The product we created is a free e-book with tips for safe traveling after the C
 
 ### Preview
 
-You can see the live site clicking <a href="https://marianadacunha.github.io/fake-airbnb/">here</a>.</br>
+You can see the live site clicking <a href="https://viagensdoolimpo.netlify.app/">here</a>.</br>
 
 ![Screenshot](https://i.ibb.co/q9Rb3rs/image.png)
