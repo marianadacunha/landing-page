@@ -1,5 +1,11 @@
-# Viagens do Olimpo
+# General Info
 
-Landing page criada pelo grupo Hermes, do Gama XP #33 para captação de leads.
+Landing page developed with the intent of capturing leads, as a part of a challenge proposed by Gama Academy. This page was coded using HTML, CSS, Bootstrap and JavaScript.
 
-O produto é um e-book gratuito com dicas para viajar após a pandemia. O material traz orientações para explorar os destinos com segurança, se informar sobre alteração e reembolso de reservas, além de check-list para não esquecer nenhum item na hora de fazer a mala. 
+The product we created is a free e-book with tips for safe traveling after the COVID-19 pandemic. The material provides guidance for exploring destinations safely, getting informed about changes and refunds of reservations, as well as a check-list (so as not to forget any item when packing).
+
+### Preview
+
+You can see the live site clicking <a href="https://marianadacunha.github.io/fake-airbnb/">here</a>.</br>
+
+![Screenshot](https://i.ibb.co/q9Rb3rs/image.png)
