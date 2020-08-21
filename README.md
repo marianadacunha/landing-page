@@ -5,7 +5,7 @@ This page was coded in less than a week using HTML, CSS, Bootstrap and JavaScrip
 
 The product we created is a free e-book with tips for safe traveling after the COVID-19 pandemic. The material provides guidance for exploring destinations safely, getting informed about changes and refunds of reservations, as well as a check-list (so as not to forget any item when packing).
 
-### Preview
+# Preview
 
 You can see the live site clicking <a href="https://viagensdoolimpo.netlify.app/">here</a>.</br>
 
